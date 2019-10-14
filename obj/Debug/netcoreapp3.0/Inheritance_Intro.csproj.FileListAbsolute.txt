@@ -1,0 +1,11 @@
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/bin/Debug/netcoreapp3.0/Inheritance_Intro
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/bin/Debug/netcoreapp3.0/Inheritance_Intro.deps.json
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/bin/Debug/netcoreapp3.0/Inheritance_Intro.runtimeconfig.json
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/bin/Debug/netcoreapp3.0/Inheritance_Intro.runtimeconfig.dev.json
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/bin/Debug/netcoreapp3.0/Inheritance_Intro.dll
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/bin/Debug/netcoreapp3.0/Inheritance_Intro.pdb
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/obj/Debug/netcoreapp3.0/Inheritance_Intro.csprojAssemblyReference.cache
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/obj/Debug/netcoreapp3.0/Inheritance_Intro.AssemblyInfoInputs.cache
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/obj/Debug/netcoreapp3.0/Inheritance_Intro.AssemblyInfo.cs
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/obj/Debug/netcoreapp3.0/Inheritance_Intro.dll
+/Users/i9_editor/workspace/csharp/exercises/Inheritance_Intro/obj/Debug/netcoreapp3.0/Inheritance_Intro.pdb
